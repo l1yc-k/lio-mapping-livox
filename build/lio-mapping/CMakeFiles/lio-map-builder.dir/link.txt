@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -O3 -DNDEBUG   -shared -Wl,-soname,liblio-map-builder.so -o /home/l1k/l1k/code/lio-mapping-livox/devel/lib/liblio-map-builder.so CMakeFiles/lio-map-builder.dir/src/map_builder/MapBuilder.cc.o 

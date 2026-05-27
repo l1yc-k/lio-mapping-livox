@@ -1,0 +1,2 @@
+lio-mapping:livox_ros_driver/livox_ros_driver
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/l1k/l1k/code/lio-mapping-livox/devel -DCMAKE_INSTALL_PREFIX=/home/l1k/l1k/code/lio-mapping-livox/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/l1k/l1k/code/lio-mapping-livox/install
+
+Name: lio
+Description: Description of lio
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
